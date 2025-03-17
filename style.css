@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(205, 234, 234);
+}
+.headings{
+    text-align: center;
+}
+
+.box {
+    width: 140px;
+    height: 140px;
+    border-radius: 20px;
+    border: solid black 10px;
+}
+
+.part1 {
+    display: flex;
+    gap: 1.25rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+.part2 {
+    display: flex;
+    gap: 1.25rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.25rem;
+}
+.red {
+    background-color: rgb(170, 70, 23);
+}
+.yellow {
+    background-color: rgba(205, 188, 11, 0.908);
+}
+.green {
+    background-color: rgba(11, 110, 11, 0.85);
+}
+.purple {
+    background-color: rgba(163, 24, 163, 0.843);
+}
+.flash {
+    background-color: white;
+}
+.userFlash {
+
+    background-color: white;
+
+}
